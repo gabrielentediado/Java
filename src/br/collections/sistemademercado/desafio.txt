@@ -1,0 +1,9 @@
+nome, preco, quantidade
+
+usar arraylist:
+
+criar produtos
+permitir a adição de novos produtos da lista
+exibir todos os produtos cadastrados, mostrando o nome, preço e quantiade de cada 1.
+remoção com base no nome
+exibir total do valor em estoque
